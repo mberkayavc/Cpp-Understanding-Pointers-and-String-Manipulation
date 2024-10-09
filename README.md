@@ -28,6 +28,7 @@ Bu da str[2] ifadesidir. 0123 teki 2 ye denk gelir. sonuç olarak
 str nin sıfırıncı indeksindeki 0 yerine str nin ikinci indeksindeki 2 
 değeri atanır.
 
+Yani sonuç ```152123``` olacaktır.
 
 
 
